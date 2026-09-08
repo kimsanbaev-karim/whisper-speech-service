@@ -1,0 +1,6 @@
+.venv/
+models/
+__pycache__/
+*.log
+speech.ico
+speech-preview.png
